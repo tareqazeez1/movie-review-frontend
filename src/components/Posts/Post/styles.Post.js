@@ -17,20 +17,21 @@ export default makeStyles({
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
-    borderRadius: '15px',
+    borderRadius: '20px',
     height: '100%',
     position: 'relative',
+    
   },
   overlay: {
     position: 'absolute',
-    top: '20px',
+    top: '10px',
     left: '20px',
     color: 'white',
   },
   overlay2: {
     position: 'absolute',
-    top: '20px',
-    right: '20px',
+    top: '10px',
+    right: '10px',
     color: 'white',
   },
   grid: {
@@ -39,7 +40,7 @@ export default makeStyles({
   details: {
     display: 'flex',
     justifyContent: 'space-between',
-    margin: '20px',
+    margin: '10px',
   },
   title: {
     padding: '0 16px',
