@@ -1,6 +1,6 @@
 # Movie Review
 
-![](images/mock.PNG)
+![mock](https://user-images.githubusercontent.com/67520168/120084027-caacbe00-c0ee-11eb-8265-439372d8674e.PNG)
 
 ## Introduction
 This is a dynamic web application for creating movie reviews.
