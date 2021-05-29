@@ -1,6 +1,6 @@
 # Movie Review
 
-![](images/mock.png)
+![](images/mock.PNG)
 
 ## Introduction
 This is a dynamic web application for creating movie reviews.
